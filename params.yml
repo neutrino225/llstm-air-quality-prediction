@@ -1,0 +1,11 @@
+data:
+  path: "data/pollution_data.csv"
+  features_save_dir: "data/features"
+
+training:
+  seq_length: 50
+  batch_size: 32
+  num_epochs: 10
+
+data_split:
+  test_size: 0.2

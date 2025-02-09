@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1734034460946
+current_stage: None
+description: null
+last_updated_timestamp: 1734034460946
+name: AQI_LSTM
+run_id: c0100f4192a8475eb46c5df1cdc192cb
+run_link: null
+source: file:///home/neutrino/mlops/course-project-neutrino225/mlruns/0/c0100f4192a8475eb46c5df1cdc192cb/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///home/neutrino/mlops/course-project-neutrino225/mlruns/0/c0100f4192a8475eb46c5df1cdc192cb/artifacts/model
+user_id: null
+version: 2

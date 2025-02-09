@@ -1,0 +1,8 @@
+.env
+
+./task01/__pycache__/
+./task02/__pycache__/
+./task03/__pycache__/
+
+mlruns/.trash/
+mlruns/0/
